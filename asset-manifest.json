@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Morpion-React/static/css/main.053266ae.css",
+    "main.js": "/Morpion-React/static/js/main.e581d66e.js",
+    "static/js/787.6d185335.chunk.js": "/Morpion-React/static/js/787.6d185335.chunk.js",
+    "static/media/php.png": "/Morpion-React/static/media/php.029374a3097c6eea6eb3.png",
+    "static/media/louse.jpg": "/Morpion-React/static/media/louse.72ef6e54fe5c0864e23a.jpg",
+    "static/media/js.png": "/Morpion-React/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/Morpion-React/index.html",
+    "main.053266ae.css.map": "/Morpion-React/static/css/main.053266ae.css.map",
+    "main.e581d66e.js.map": "/Morpion-React/static/js/main.e581d66e.js.map",
+    "787.6d185335.chunk.js.map": "/Morpion-React/static/js/787.6d185335.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.053266ae.css",
+    "static/js/main.e581d66e.js"
+  ]
+}
