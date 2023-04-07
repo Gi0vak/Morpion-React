@@ -8,10 +8,6 @@
 owing two players to play against each other by taking turns to align three identical symbols on a 3x3 game board.</em>
 </p>
 
-<p align="center">
-<img src="[https://placeholder.image.url](https://placeholder.image.url/)" alt="License" width="100px">
-</p>
-
 ## Features
 
 Interactive user interface: Players can click on the squares to place their symbols (PHP or JavaScript) on the game board.
@@ -22,7 +18,6 @@ Player turn tracking: The game displays the current player's turn (PHP or JavaSc
 
 ## Technologies 
 
-	`#RRGGBB`
   React: a JavaScript library for building interactive user interfaces.
   HTML/CSS: for the structure and styling of the user interface.
   JavaScript: for the game logic and interactions with the user interface.
