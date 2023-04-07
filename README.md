@@ -1,7 +1,7 @@
-<h1 align="center"> :EMOJICODE: Tic-Tac-Toe in React</h1>
-<p align="center">
-Used![tictactoe](https://user-images.githubusercontent.com/113632137/230671853-3a5aa411-abf2-4199-98de-cd9c3215ff19.png)
-</p>
+<h1 align="center"> :space_invader: Tic-Tac-Toe in React</h1>
+
+![tictactoe](https://user-images.githubusercontent.com/113632137/230671853-3a5aa411-abf2-4199-98de-cd9c3215ff19.png)
+
 
 <p align="center">
 <em>A simple Tic-Tac-Toe game created using React, all
