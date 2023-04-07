@@ -1,10 +1,11 @@
-<h1 align="center">Tic-Tac-Toe in React</h1>
+<h1 align="center"> :EMOJICODE: Tic-Tac-Toe in React</h1>
 <p align="center">
-<img src="[https://placeholder.image.url](https://placeholder.image.url/)" alt="Tic-Tac-Toe Screenshot" width="800px">
+Used![tictactoe](https://user-images.githubusercontent.com/113632137/230671853-3a5aa411-abf2-4199-98de-cd9c3215ff19.png)
 </p>
 
 <p align="center">
-<em>A simple Tic-Tac-Toe game created using React, allowing two players to play against each other by taking turns to align three identical symbols on a 3x3 game board.</em>
+<em>A simple Tic-Tac-Toe game created using React, all
+owing two players to play against each other by taking turns to align three identical symbols on a 3x3 game board.</em>
 </p>
 
 <p align="center">
@@ -19,7 +20,8 @@ Automatic win detection: The game automatically detects if any of the players ha
 Option to restart the game: After the end of a game, players can close the popup and restart the game.
 Player turn tracking: The game displays the current player's turn (PHP or JavaScript) on the screen.
 
-## Technologies Used
+## Technologies 
+
 	`#RRGGBB`
   React: a JavaScript library for building interactive user interfaces.
   HTML/CSS: for the structure and styling of the user interface.
